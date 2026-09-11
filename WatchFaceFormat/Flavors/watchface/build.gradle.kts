@@ -23,7 +23,7 @@ android {
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.flavors"
+        applicationId = "Watch4Life"
         // Flavors requires version 2 of the watch face format, which is
         // supported from Wear OS 5 onwards.
         minSdk = 34
